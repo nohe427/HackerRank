@@ -19,36 +19,36 @@ Output a single integer equal to the absolute difference in the sums across the 
 
 ##Sample Input
 
-3
+    3
 
-11 2 4
+    11 2 4
 
-4 5 6
+    4 5 6
 
-10 8 -12
+    10 8 -12
 
 ##Sample Output
 
-15
+    15
 ##Explanation
 
 The first diagonal of the matrix is:
 
-11
+    11
 
-    5
+        5
 
-        -12
+            -12
 
 Sum across the first diagonal = 11+5-12= 4
 
 The second diagonal of the matrix is:
 
-        4
+            4
 
-    5
+        5
 
-10
+    10
 
 Sum across the second diagonal = 4+5+10 = 19
 
